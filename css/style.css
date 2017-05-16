@@ -1,5 +1,14 @@
 body{
 	background:#ff00ff;
+<<<<<<< HEAD
 	font-size:30px;
+=======
+	width:970px;
+	margin:0 auto;
+}
+
+p {
+	font-size:50px;
+>>>>>>> master
 }
 
