@@ -1,14 +1,16 @@
 body{
 	background:#ff00ff;
-<<<<<<< HEAD
 	font-size:30px;
-=======
 	width:970px;
 	margin:0 auto;
 }
 
 p {
+<<<<<<< HEAD
 	font-size:51px;
 >>>>>>> master
+=======
+	font-size:50px;
+>>>>>>> 43b7a0fefd64311e0b3e02ddcc383febcebe37d4
 }
 
